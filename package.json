@@ -1,5 +1,5 @@
   "repository": {
-    "type": ".git",
+    "type": ""git"",
     "url": "git+https://github.com/shuttlenetwork/shuttle"
   },
   "keywords": [
