@@ -1,5 +1,5 @@
   "repository": {
-    "url": "git+https://github.com/shuttlenetwork/shuttle"
+    "url": "https://github.com/shuttlenetwork/shuttle"
   },
   "keywords": [
     "proxy"
